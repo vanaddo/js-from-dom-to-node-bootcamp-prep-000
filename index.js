@@ -1,1 +1,1 @@
-console.log("What time is it world?")
+console.log("Hello, World!")
